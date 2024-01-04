@@ -1,4 +1,4 @@
-package services;
+package com.ejemplo.services;
 
 public interface ServicioB {
 
